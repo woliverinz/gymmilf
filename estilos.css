@@ -1,0 +1,16 @@
+body {
+    background-color: #ffdae9; /* Fondo rosa */
+    font-family: sans-serif; 
+    color: #4a3b42; 
+    text-align: center; 
+    align-items: center;
+}
+
+table, form {
+    margin: 20px auto;
+    text-align: center;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
